@@ -1,0 +1,6 @@
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanVerwaltung\bin\Debug\FuhrplanVerwaltung.exe.config
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanVerwaltung\bin\Debug\FuhrplanVerwaltung.exe
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanVerwaltung\bin\Debug\FuhrplanVerwaltung.pdb
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanVerwaltung\obj\Debug\FuhrplanVerwaltung.csprojAssemblyReference.cache
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanVerwaltung\obj\Debug\FuhrplanVerwaltung.exe
+C:\Users\CHEFS\source\repos\FuhrplanVerwaltung\FuhrplanVerwaltung\obj\Debug\FuhrplanVerwaltung.pdb
